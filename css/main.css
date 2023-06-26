@@ -1,3 +1,14 @@
+/* Fonts */
+@font-face {
+  font-family: "cocogoose";
+  src: url("../assets/fonts/cocogoose/Cocogoose.ttf");
+}
+
+@font-face {
+  font-family: "cocogoose-light";
+  src: url("../assets/fonts/cocogoose/Cocogoose-Classic-Light.ttf");
+}
+
 /* Text Positioning */
 .text-center {
   text-align: center;
@@ -20,10 +31,11 @@
 
 /* Text Colors */
 .special-color {
-  background-color: black;
+  background: url("https://wallpaperaccess.com/full/1818031.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 

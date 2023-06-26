@@ -46,14 +46,14 @@ nav {
   z-index: -1;
   top: 0;
   left: 0;
-  background-image: url("");
+  background-image: url("https://p4.wallpaperbetter.com/wallpaper/89/995/738/space-colors-blue-purple-stars-wallpaper-preview.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   opacity: 0.8;
 }
 
 nav h2 {
-  font-family: "cocogoose", sans-serif;
+  font-family: "cocogoose-light", sans-serif;
   justify-self: center;
   align-self: center;
   letter-spacing: 1.5px;
@@ -130,14 +130,13 @@ nav h2 {
 }
 
 .container h1 {
-  font-family: "Lato", sans-serif;
+  font-family: "cocogoose", sans-serif;
   font-size: 1.85rem;
   letter-spacing: 1.5px;
 }
 
 .year {
-  font-family: "Source Sans", sans-serif;
-  font-weight: 900;
+  font-family: "cocogoose", sans-serif;
   font-size: 2.1rem;
   margin-bottom: 15%;
   width: 100%;
@@ -161,7 +160,7 @@ nav h2 {
   align-items: flex-start;
 }
 
-.bg-header-image {
+.background-header-image {
   position: absolute;
   width: 100%;
   z-index: -1;
@@ -170,7 +169,7 @@ nav h2 {
   background-size: cover;
 }
 
-.bg-header-image-rotate {
+.background-header-image-rotate {
   transform: rotate(180deg);
   top: 0;
   right: 0;
