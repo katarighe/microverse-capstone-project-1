@@ -31,3 +31,77 @@ referrerpolicy="no-referrer" />
 
 <!-- Start of Content -->
 <body class="flex-column-center">
+    <div class="upperside">
+        <ul class="upperside-ul">
+            <li><i class="fab fa-facebook-f light-grey upperside-item"></i></li>
+            <li><i class="fab fa-twitter light-grey upperside-item"></i></li>
+            <li><a href="#logout" class="logout light-grey upperside-item">Logout</a></li> 
+            <li><a href="#mypage" class="mypage light-grey upperside-item">My Page</a></li>
+            <li><a href="#korean" class="korean light-grey upperside-item">Korean</a></li>
+        </ul>
+    </div>
+    <header class="bg-light-grey flex-column-center">
+        <nav>
+            <div class="nav-bg"></div>
+            <div class="light-black hamburger-menu-display" onclick="openNav()">
+                <i class="fas fa-bars hamburger-menu"></i>
+            </div>
+            <div id="myNav" class="overlay bg-light-black">
+                    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+                    <div class="overlay-content">
+                        <a href="./about.html">About</a>
+                        <a href="#main-program" onclick="closeNav()">Main Program</a>
+                        <a href="#speakers" onclick="closeNav()">Speakers</a>
+                        <a href="#partners" onclick="closeNav()">Partners</a>
+                        <a href="#" onclick="closeNav()">Join the Program</a>
+                        <a href="#contact" onclick="closeNav()">Contact</a>
+                    </div>
+                </div>
+                <div class="desktop-navbar">
+                    <a href="./index.html" class="main-logo">
+                        <img src="./images/logo/laxact-streaming-conference-2023.png" 
+                        alt="main logo"
+                        class="main-logo-img"/></a>
+                        <ul class="navbar-ul">
+                            <li><a href="./about.html" class="desktop-nav-link">About</a></li>
+                            <li><a href="#main-program" class="desktop-nav-link">Main Program</a></li>
+                            <li><a href="#speakers" class="desktop-nav-link">Speakers</a></li>
+                            <li><a href="#partners" class="desktop-nav-link">Partners</a></li>
+                            <li><a href="#" class="desktop-nav-link">Join the Program</a></li>
+                            <li><a href="#contact" class="desktop-nav-link">Contact</a></li>
+                        </ul>
+                    </div>
+                </nav>
+
+                <div class="container">
+                    <img src="" alt="background image" class="background-header-image" />
+                    <img src="" alt="background image" class="background-header-image-rotate" />
+                </div>
+            
+                
+
+                <footer class="footer flex-column-center" id="contact">
+                    <h3 class="contact light-black heading-medium">Contact</h3>
+                    <hr class="horizontal-line text-center" />
+                    <div class="flex-row-center contact-details">
+                        <img src="./images/logo/laxact-logo.png"
+                        class="laxact-logo" 
+                        />
+                        <div class="address">
+                            <p class="phone-number"><b>Phone:</b> +1 (647) 373 9841</p>
+                            <p class="phone-number"><b>WhatsApp:</b> +1 (647) 373 9841</p>
+                            <p class="address-details">
+                                <b>Address:</b> Crest Towers, DHA <br />
+                                Main Khayaban-e-Ittehad Road<br />
+                                D.H.A. Phase 7 Phase 2<br />
+                                Commercial Area Defence Housing Authority<br />
+                                Diego Garcia, British Indian Ocean Territory
+                                </p>
+                            </div>
+                        </div>
+                <p class="rights"><i class="far fa-copyright"></i>2009-2023 laxACT LLC. All Rights Reserved</p>
+            </footer>
+            <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+            <script src='main.js'></script>
+        </body>
+        </html>
