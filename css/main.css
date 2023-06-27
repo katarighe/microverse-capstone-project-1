@@ -64,10 +64,6 @@
   background: rgba(250, 247, 247, 0.829);
 }
 
-.bg-dark {
-  background-color: #272a31;
-}
-
 /* Website Container */
 .container {
   width: 100%;
@@ -139,4 +135,17 @@
 
 .margin-vertical {
   margin: 5% 0;
+}
+
+/* Buttons */
+button,
+input[type="submit"],
+input[type="reset"] {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
 }
