@@ -31,7 +31,7 @@ For more information on the importance of a professional README for your reposit
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src=".images/logo/laxact-streaming-conference-2023" alt="logo" width="140"  height="auto" />
+  <img src="https://github.com/katarighe/microverse-capstone-project-1/blob/draft-version/images/logo/laxact-streaming-conference-2023.png"  height="auto" />
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
