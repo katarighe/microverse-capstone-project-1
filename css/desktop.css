@@ -237,6 +237,7 @@ nav {
 .horizontal-line {
   width: 100px;
   margin-bottom: 1%;
+  margin-top: 0.3%;
 }
 
 .about-us {
@@ -260,7 +261,7 @@ nav {
 /* Previous Activities */
 .previous-activities {
   width: 100%;
-  margin: 5%;
+  margin: 0.1%;
 }
 
 .activities {
@@ -335,4 +336,14 @@ nav {
 /* Toggle function for Speakers display */
 .speakers-display {
   display: flex;
+}
+
+/* Horizontal Line */
+.full-horizontal-line {
+  border-width: 0;
+  height: 1px;
+  background-color: #272a31;
+  width: 100%;
+  opacity: 0.6;
+  margin: 0.5% 1%;
 }
