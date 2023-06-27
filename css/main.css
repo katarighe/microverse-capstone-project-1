@@ -64,10 +64,15 @@
   background: rgba(250, 247, 247, 0.829);
 }
 
+.bg-dark {
+  background-color: #272a31;
+}
+
 /* Website Container */
 .container {
   width: 100%;
   padding: 5%;
+  background-image: url("../images/utilities/livestream-background.jpg");
 }
 
 /* Website Layout */
