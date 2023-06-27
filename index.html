@@ -152,6 +152,14 @@ referrerpolicy="no-referrer" />
                     <button type="button" name="join-us" class="btn main-btn">Join the 2023 conference!</button>
                     <a class="see-program"><u>SEE THE WHOLE PROGRAM</u></a>
                     </section>
+                    <section class="featured-speakers flex-column-center" id="speakers">
+                        <h2 class="featured-speakers-header light-black heading-medium">Featured Speakers</h2>
+                        <hr class="horizontal-line text-center" />
+                        <div class="speakers-list"></div>
+                        <button type="button" name="join-us" class="btn speakers-btn" onclick="toggleSpeakers()">
+                          MORE <i class="fas fa-angle-down down-arrow"></i>
+                        </button>
+                      </section>
                     <section class="partners bg-light-black flex-column-center" id="partners">
                         <h2 class="partners-heading light-grey heading-medium">Partners</h2>
                         <hr class="horizontal-line text-center" />
@@ -197,5 +205,6 @@ referrerpolicy="no-referrer" />
                         </footer>
            </footer>
         <script src='./js/menu.js'></script>
+        <script src='./js/speakers.js'></script>
     </body>
 </html>
