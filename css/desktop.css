@@ -333,11 +333,6 @@ nav {
   font-family: 'lato', sans-serif;
 }
 
-/* Toggle function for Speakers display */
-.speakers-display {
-  display: flex;
-}
-
 /* Others */
 .full-horizontal-line {
   border-width: 0;
@@ -350,4 +345,8 @@ nav {
 
 .featured-speakers-header {
   margin: 0.1%;
+}
+
+.speakers-display {
+  display: flex;
 }
