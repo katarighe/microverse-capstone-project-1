@@ -229,20 +229,18 @@ nav {
   display: flex;
   align-items: center;
   width: 100%;
-  margin-top: 5%;
   margin: 1% 1%;
   cursor: pointer;
 }
 
 /* About Us */
 .horizontal-line {
-  width: 200px;
-  margin-top: 1%;
+  width: 100px;
   margin-bottom: 1%;
 }
 
 .about-us {
-  margin-bottom: 0;
+  margin-bottom: 1px;
   margin-top: 0;
 }
 
@@ -262,7 +260,7 @@ nav {
 /* Previous Activities */
 .previous-activities {
   width: 100%;
-  margin: 1%;
+  margin: 5%;
 }
 
 .activities {
@@ -309,7 +307,7 @@ nav {
 }
 
 /* Footer */
-.Home-footer {
+.home-footer {
   display: flex;
   align-items: center;
   padding: 0.5% 20%;
