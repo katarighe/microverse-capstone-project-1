@@ -77,8 +77,8 @@ nav {
 }
 
 .desktop-navbar ul li .CC-campaign {
-  color: orange;
-  border: solid 3px var(orange);
+  color: black;
+  border: solid 3px #ec5242;
   padding: 7px;
   white-space: nowrap;
 }
@@ -288,34 +288,26 @@ nav {
   color: #fff;
 }
 
-/* Contact */
-.footer {
-  margin-top: 0;
+/* Footer */
+.contact-footer {
+  display: flex;
+  align-items: center;
+  padding: 3% 15%;
+  gap: 50px;
 }
 
-.contact-details {
-  justify-content: center;
-  margin: 0;
+.host {
+  width: 30%;
 }
 
-.contact {
-  margin-top: 0;
+.host img {
+  width: 100%;
 }
 
-.rights {
-  margin-top: 3%;
-}
-
-.ytu-logo {
-  margin-right: 3%;
-}
-
-.address {
-  margin-left: 3%;
-}
-
-.contact-line {
-  margin-bottom: 2%;
+.host-title span {
+  font-size: 2vw;
+  font-weight: 600;
+  font-family: 'lato', sans-serif;
 }
 
 /* Toggle function for Speakers display */
