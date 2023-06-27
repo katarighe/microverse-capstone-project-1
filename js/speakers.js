@@ -1,49 +1,49 @@
 const speakers = [
     {
         id: 1,
-        image: '',
+        image: '../images/speakers/speaker1.png',
         name: 'Mohamed Aden Ighe',
-        organization: 'Founder and Chief Executive Officer of laxACT',
+        organization: 'Founder and Chief Executive Officer of laxACT Ltd.',
         background:
           'Lorem ipsum, dolor sit amet adipisicing elit. Deleniti, molestias.',
     },
     {
         id: 2,
-        image: '',
+        image: '../images/speakers/speaker2.png',
         name: 'John Almeda Jefferson Jr.',
-        organization: 'Chief Executive Officer (CEO) of Buzz TV',
+        organization: 'Chief Executive Officer (CEO) of Buzz TV Ltd.',
         background:
           'Lorem ipsum, dolor sit amet adipisicing elit. Deleniti, molestias.',
     },
     {
         id: 3,
-        image: '',
-        name: 'Mohamed Aden Ighe',
-        organization: 'Full Stack Developer at Microverse',
+        image: '../images/speakers/speaker3.png',
+        name: 'Diego Garcia Gonzalez',
+        organization: 'Founder and Chief Executive Officer (CEO) of Formuler Inc.',
         background:
           'Lorem ipsum, dolor sit amet adipisicing elit. Deleniti, molestias.',
     },
     {
         id: 4,
-        image: '',
+        image: '../images/speakers/speaker4.png',
         name: 'Mohamed Aden Ighe',
-        organization: 'Full Stack Developer at Microverse',
+        organization: 'Chief Finaincial Officer (CFO) at Apollo Group TV Ltd.',
         background:
           'Lorem ipsum, dolor sit amet adipisicing elit. Deleniti, molestias.',
     },
     {
         id: 5,
-        image: '',
-        name: 'Mohamed Aden Ighe',
-        organization: 'Full Stack Developer at Microverse',
+        image: '../images/speakers/speaker5.png',
+        name: 'Reza Shah Ahmadi',
+        organization: 'Founder and Chief Executive Officer (CEO) of Jadoo TV Inc.',
         background:
           'Lorem ipsum, dolor sit amet adipisicing elit. Deleniti, molestias.',
     },
     {
         id: 6,
-        image: '',
-        name: 'Mohamed Aden Ighe',
-        organization: 'Full Stack Developer at Microverse',
+        image: '../images/speakers/speaker6.png',
+        name: 'Arvinder Singh',
+        organization: 'Marketing Director of IPTV Smarters (WHMCS Smarters Ltd.)',
         background:
           'Lorem ipsum, dolor sit amet adipisicing elit. Deleniti, molestias.',
     }
