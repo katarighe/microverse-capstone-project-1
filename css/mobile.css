@@ -37,6 +37,7 @@ nav {
   flex-direction: column;
   justify-content: flex-start;
   position: relative;
+  border-bottom: 1px solid black;
 }
 
 .nav-background {
@@ -46,10 +47,11 @@ nav {
   z-index: -1;
   top: 0;
   left: 0;
-  background-color: gray;
+  background-color: peachpuff;
   background-size: cover;
   background-repeat: no-repeat;
   opacity: 0.8;
+  border-left: 1px solid #fff;
 }
 
 nav h2 {
