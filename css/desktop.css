@@ -338,7 +338,7 @@ nav {
   display: flex;
 }
 
-/* Horizontal Line */
+/* Others */
 .full-horizontal-line {
   border-width: 0;
   height: 1px;
@@ -346,4 +346,8 @@ nav {
   width: 100%;
   opacity: 0.6;
   margin: 0.5% 1%;
+}
+
+.featured-speakers-header {
+  margin: 0.1%;
 }
