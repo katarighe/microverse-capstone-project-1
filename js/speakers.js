@@ -101,7 +101,7 @@ function toggleSpeakers () {
     if (toggledItems.length) {
         toggledItems.forEach((item) => {
             item.className = 'flex-row-center speakers-display';
-            speakersButton.textContent = 'MORE DETAILS';
+            speakersButton.textContent = 'MORE';
             const arrow = document.createElement('i');
             arrow.className = 'fas fa-angle-down down-arrow';
             speakersButton.appendChild(arrow);
