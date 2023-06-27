@@ -25,8 +25,8 @@ header {
   width: 100%;
 }
 
-/* Upperside */
-.upperside {
+/* Upside */
+.upside {
   display: none;
 }
 
@@ -53,7 +53,7 @@ nav {
 }
 
 nav h2 {
-  font-family: "cocogoose-light", sans-serif;
+  font-family: "Cocogoose Pro Light-trial", sans-serif;
   justify-self: center;
   align-self: center;
   letter-spacing: 1.5px;
@@ -117,7 +117,8 @@ nav h2 {
 /* First Section */
 .container {
   width: 100%;
-  margin: 3% 0;
+  margin: 0;
+  background-image: url("");
 }
 
 .main-content-headers h1 {
@@ -137,16 +138,19 @@ nav h2 {
 
 .year {
   font-family: "Lato", sans-serif;
-  font-size: 2.1rem;
   margin-bottom: 15%;
   width: 100%;
 }
 
 .header-content {
   border: 1px solid #d3d3d3;
-  background-color: #fff;
+  background-color: #d3d3d3;
   padding: 3%;
   line-height: 1.5rem;
+  -webkit-box-shadow: 0 0 25px 0 inset #d3d3d3;
+  --backdrop-filter: saturate(150%);
+  --box-shadow: 0 0 25px 0 inset #d3d3d3;
+  opacity: 0.7;
 }
 
 .main-content .text-center h1 {
@@ -186,7 +190,7 @@ nav h2 {
 
 /* Main Program */
 .main-program {
-  background: url("./images/utilities/mosaic.png");
+  background: url("https://jicamargo.github.io/mmw/images/background-x.png");
   width: 100%;
   height: 100%;
   padding: 3%;
@@ -343,7 +347,7 @@ nav h2 {
 .partners {
   width: 100%;
   opacity: 0.9;
-  margin: 5% 0;
+  margin: 0;
 }
 
 .partners-heading {
@@ -374,7 +378,7 @@ nav h2 {
 /* Footer */
 .footer {
   width: 100%;
-  margin: 5% 0;
+  margin: 0;
 }
 
 .contact {
@@ -390,17 +394,4 @@ nav h2 {
   justify-content: space-around;
   width: 100%;
   margin: 5% 0;
-}
-
-/* Buttons */
-button,
-input[type="submit"],
-input[type="reset"] {
-  background: none;
-  color: inherit;
-  border: none;
-  padding: 0;
-  font: inherit;
-  cursor: pointer;
-  outline: inherit;
 }

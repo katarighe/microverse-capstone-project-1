@@ -1,12 +1,12 @@
 /* Fonts */
 @font-face {
   font-family: "cocogoose";
-  src: url("../assets/fonts/cocogoose/Cocogoose.ttf");
+  src: url("../assets/fonts/cocogoose/Cocogoose Pro-trial.ttf");
 }
 
 @font-face {
   font-family: "cocogoose-light";
-  src: url("../assets/fonts/cocogoose/Cocogoose-Classic-Light.ttf");
+  src: url("../assets/fonts/cocogoose/Cocogoose Pro Ultralight-trial.ttf");
 }
 
 /* Text Positioning */
