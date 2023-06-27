@@ -216,20 +216,21 @@ nav {
 
 .partners-list {
   display: flex;
+  flex-direction: row;
+  width: 100%;
 }
 
 .list-item {
-  width: 120px;
-  height: 5rem;
+  width: 200px;
+  height: 200px;
 }
 
 .list-item-container {
   display: flex;
-  text-align: center;
   align-items: center;
-  justify-content: space-between;
   width: 100%;
   margin-top: 5%;
+  margin: 1% 1%;
   cursor: pointer;
 }
 
@@ -237,6 +238,7 @@ nav {
 .horizontal-line {
   width: 200px;
   margin-top: 1%;
+  margin-bottom: 1%;
 }
 
 .about-us {

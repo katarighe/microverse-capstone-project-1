@@ -362,8 +362,9 @@ nav h2 {
   margin-top: 10%;
 }
 
-.partners-list {
-  flex-wrap: wrap;
+.partners-list ul {
+  display: flex;
+  flex-direction: row;
 }
 
 .list-item-container {
