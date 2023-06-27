@@ -8,3 +8,317 @@ html {
 body {
   max-width: 1400px;
 }
+
+/* Upperside */
+.upside {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: #272a31;
+  width: 100%;
+  height: 30px;
+  opacity: 0.9;
+}
+
+.upside-ul {
+  width: 40%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 5%;
+}
+
+.upside-item:hover {
+  opacity: 0.7;
+}
+
+/* Navbar */
+nav {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: relative;
+}
+
+.hamburger-menu-display {
+  display: none;
+}
+
+.desktop-navbar {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  color: #272a31;
+  padding: 5px 5%;
+}
+
+.navbar-ul {
+  width: 70%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.desktop-nav-link {
+  color: #272a31;
+  font-weight: 600;
+}
+
+.desktop-navbar ul li {
+  margin: 0 1%;
+  white-space: nowrap;
+}
+
+.desktop-navbar ul li:hover {
+  opacity: 0.7;
+}
+
+.desktop-navbar ul li .CC-campaign {
+  color: orange;
+  border: solid 3px var(orange);
+  padding: 7px;
+  white-space: nowrap;
+}
+
+.main-logo:hover {
+  opacity: 0.7;
+}
+
+.main-logo-img {
+  width: 70px;
+  height: 70px;
+  opacity: 0.8;
+}
+
+/* First Section (Intro) */
+.main-content-headers {
+  width: 80%;
+}
+
+.main-content-headers h2 {
+  font-size: 2.5rem;
+}
+
+.year {
+  font-size: 4.5rem;
+  margin-bottom: 5%;
+}
+
+.main-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-content {
+  width: 80%;
+  font-size: 1.25rem;
+}
+
+.infos {
+  margin-top: 5%;
+  margin-bottom: 0;
+}
+
+.bg-header-image {
+  width: 80%;
+}
+
+.date {
+  font-size: 2rem;
+}
+
+.location {
+  font-size: 1.25rem;
+}
+
+.program-items {
+  opacity: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.program-item {
+  opacity: 0.8;
+  width: 19%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 10px;
+  margin: 0;
+  flex-wrap: wrap;
+}
+
+.item-icon {
+  width: auto;
+  margin: 20px 0;
+  color: #fff;
+}
+
+.item-header {
+  width: auto;
+}
+
+.item-content {
+  width: auto;
+  margin: 20px 0;
+  color: #fff;
+}
+
+.main-btn {
+  display: none;
+}
+
+.see-program {
+  display: block;
+  color: #ec5242;
+  font-size: 1.5rem;
+  margin-top: 5%;
+}
+
+.see-program:hover {
+  opacity: 0.7;
+}
+
+/* Speakers */
+.speakers-btn {
+  display: none;
+}
+
+.speakers-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Partners */
+.partners-heading {
+  margin-top: 5%;
+}
+
+.partners-list {
+  flex-wrap: nowrap;
+}
+
+.list-item {
+  width: 120px;
+  height: 120px;
+}
+
+/* About Us */
+.horizontal-line {
+  width: 200px;
+  margin-top: 1%;
+}
+
+.about-us {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.margin-top-big {
+  margin-top: 5%;
+}
+
+.family-photo {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.about-us-content {
+  font-size: 1.25rem;
+}
+
+/* Previous Activities */
+.previous-activities {
+  width: 100%;
+  margin: 0;
+}
+
+.activities {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.previous-content {
+  margin-top: 0;
+}
+
+.previous-first-activity {
+  width: 40%;
+  min-height: 300px;
+  background: url("https://www.shoaibahmedshaikh.com/wp-content/uploads/2021/11/team-meet-3.jpg");
+  background-size: cover;
+  position: relative;
+  opacity: 0.8;
+  margin: 5% 0;
+}
+
+.previous-second-activity {
+  width: 40%;
+  min-height: 300px;
+  background: url("https://livestream.com/blog/wp-content/uploads/2021/03/live-stream-a-conference-guide_blog-header-scaled.jpg");
+  background-size: cover;
+  position: relative;
+  opacity: 0.8;
+  margin: 5% 0;
+}
+
+.first-activity-content {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #ec5242;
+  opacity: 0.8;
+  color: #fff;
+}
+
+/* Contact */
+.footer {
+  margin-top: 0;
+}
+
+.contact-details {
+  justify-content: center;
+  margin: 0;
+}
+
+.contact {
+  margin-top: 0;
+}
+
+.rights {
+  margin-top: 3%;
+}
+
+.ytu-logo {
+  margin-right: 3%;
+}
+
+.address {
+  margin-left: 3%;
+}
+
+.contact-line {
+  margin-bottom: 2%;
+}
+
+/* Toggle function for Speakers display */
+.speakers-display {
+  display: flex;
+}
