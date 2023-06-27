@@ -3,15 +3,15 @@ const speakers = [
         id: 1,
         image: '',
         name: 'Mohamed Aden Ighe',
-        organization: 'Full Stack Developer at Microverse',
+        organization: 'Founder and Chief Executive Officer of laxACT',
         background:
           'Lorem ipsum, dolor sit amet adipisicing elit. Deleniti, molestias.',
     },
     {
         id: 2,
         image: '',
-        name: 'Mohamed Aden Ighe',
-        organization: 'Full Stack Developer at Microverse',
+        name: 'John Almeda Jefferson Jr.',
+        organization: 'Chief Executive Officer (CEO) of Buzz TV',
         background:
           'Lorem ipsum, dolor sit amet adipisicing elit. Deleniti, molestias.',
     },

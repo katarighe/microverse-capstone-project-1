@@ -36,6 +36,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   -webkit-background-clip: text;
+  /* stylelint-disable-next-line csstree/validator */
   background-clip: text;
   -webkit-text-fill-color: transparent;
 }
