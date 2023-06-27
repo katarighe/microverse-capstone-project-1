@@ -3,7 +3,7 @@ const speakers = [
         id: 1,
         image: '../images/speakers/speaker1.png',
         name: 'Mohamed Aden Ighe',
-        organization: 'Founder and Chief Executive Officer of laxACT Ltd.',
+        organization: 'Founder and Chief Executive Officer (CEO) of laxACT Ltd.',
         background:
           'Lorem ipsum, dolor sit amet adipisicing elit. Deleniti, molestias.',
     },
@@ -26,7 +26,7 @@ const speakers = [
     {
         id: 4,
         image: '../images/speakers/speaker4.png',
-        name: 'Mohamed Aden Ighe',
+        name: 'Robert J. Anderson',
         organization: 'Chief Finaincial Officer (CFO) at Apollo Group TV Ltd.',
         background:
           'Lorem ipsum, dolor sit amet adipisicing elit. Deleniti, molestias.',
