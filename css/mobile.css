@@ -198,6 +198,7 @@ nav h2 {
   height: 100%;
   padding: 3%;
   border-radius: 5px;
+  margin: 1%;
 }
 
 .main-program h2 {
@@ -234,7 +235,7 @@ nav h2 {
 
 /* Event Speakers */
 .featured-speakers-header {
-  margin: 10%;
+  margin: 1%;
 }
 
 .speaker-heading {
