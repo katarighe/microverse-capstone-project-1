@@ -45,7 +45,7 @@ Capstone Project (Module 1) is built as part of the 12-month Microverse Full-Sta
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-This capstone project is built using the following items:
+This capstone project is built and configured using the following tools:
 
 <details>
   <summary>Languages</summary>
@@ -57,7 +57,7 @@ This capstone project is built using the following items:
 </details>
 
 <details>
-  <summary>Web Applications</summary>
+  <summary>Development Applications</summary>
   <ul>
     <li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
     <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
@@ -74,7 +74,7 @@ This capstone project is built using the following items:
 </details>
 
 <details>
-<summary>Web Configuration Tools</summary>
+<summary>Web Configuration Applications</summary>
   <ul>
     <li><a href="https://developer.chrome.com/docs/lighthouse/overview/">Lighthouse</a></li>
     <li><a href="https://stylelint.io/">Stylelint</a></li>
@@ -100,7 +100,7 @@ There are three key features used in my personal portfolio project include:
 The Live Demo of this Capstone Project is available now on GitHub Pages and Loom.
 
 - [Live Demo Link on GitHub pages](https://katarighe.github.io/microverse-capstone-project-1/)
-- [Loom] (https://google.com)
+- [A 5 min Video Presentation of the Website on Loom](https://loom.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,6 +120,7 @@ In order to run this project you need:
 - GitHub Desktop also be used as an option, but VSC is recommended code editor because of their git capability, as well as configuring the Web Linters (Lighthouse/Stylelint/Webhint/ES Lint).
 
 Also, these basic requirements are needed in order to fully understand how the project fully works from the start:
+
 - Should have a basic knowledge of HTML.
 - Should have a basic knowledge of CSS.
 - Should have a basic knowledge of JS (JavaScript).
