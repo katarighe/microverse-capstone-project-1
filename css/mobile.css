@@ -145,11 +145,11 @@ nav h2 {
 
 .header-content {
   border: 1px solid #d3d3d3;
-  background-color: orange;
+  background-color: greenyellow;
   padding: 3%;
   line-height: 1.5rem;
-  backdrop-filter: saturate(150%);
-  opacity: 0.7;
+  backdrop-filter: saturate(130%);
+  opacity: 0.9;
   box-shadow: 0 0 25px 0 inset #d3d3d3;
   -webkit-box-shadow: 0 0 25px 0 inset #d3d3d3;
   width: 100%;
