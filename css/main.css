@@ -149,3 +149,16 @@ input[type="reset"] {
 .margin-vertical {
   margin: 5% 0;
 }
+
+/* Header */
+.main-program-header {
+  color:white;
+  display: flex;
+  flex-direction: column;
+}
+
+.partners-heading {
+  color:white;
+  display: flex;
+  flex-direction: column;
+}
