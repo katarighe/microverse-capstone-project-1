@@ -349,10 +349,12 @@ nav h2 {
 }
 
 /* Partners */
+
 .partners {
   width: 100%;
   opacity: 0.9;
   margin: 0;
+  background: #272a31;
 }
 
 .partners-heading {
