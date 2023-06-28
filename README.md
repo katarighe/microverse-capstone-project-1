@@ -209,12 +209,14 @@ This project is <a href="https://github.com/katarighe/microverse-capstone-projec
 The Homepage section will be shown only. If you would like to view the rest please visit the link provided by GitHub Pages.
 
 **Mobile Version**
+
 ![image](https://github.com/katarighe/microverse-capstone-project-1/assets/80690364/40205924-dd3b-4aa0-9749-e0de2052215f)
 ![image](https://github.com/katarighe/microverse-capstone-project-1/assets/80690364/7bf6a8af-55eb-46cb-a391-05b86fec4d5f)
 ![image](https://github.com/katarighe/microverse-capstone-project-1/assets/80690364/3d3a2a94-8c7f-4612-8bce-2dfcc97437a8)
 ![image](https://github.com/katarighe/microverse-capstone-project-1/assets/80690364/9a2c7ddd-9eeb-467b-9628-a015c8d54c1d)
 
 **Desktop Version**
+
 ![image](https://github.com/katarighe/microverse-capstone-project-1/assets/80690364/8f89c50d-e29c-4112-a9e8-5308c88bf474)
 ![image](https://github.com/katarighe/microverse-capstone-project-1/assets/80690364/f0a89ab0-43de-4a74-a162-09c0c4614b61)
 ![image](https://github.com/katarighe/microverse-capstone-project-1/assets/80690364/894baac8-81ca-4084-b51a-9707f6b2c772)
