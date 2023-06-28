@@ -195,6 +195,7 @@ nav {
 
 .see-program:hover {
   opacity: 0.7;
+  cursor: pointer;
 }
 
 /* Speakers */

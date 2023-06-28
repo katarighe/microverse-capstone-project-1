@@ -215,6 +215,7 @@ nav h2 {
 
 .item-icon {
   width: 12%;
+  color: #fff;
 }
 
 .item-header {
@@ -222,11 +223,13 @@ nav h2 {
 }
 
 .item-content {
-  width: 60%;
+  width: 50%;
+  color: #fff;
 }
 
 .main-btn {
   margin: 5% 0;
+  cursor: pointer;
 }
 
 .see-program {
