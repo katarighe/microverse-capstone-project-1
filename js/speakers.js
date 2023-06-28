@@ -3,7 +3,7 @@ const speakers = [
         id: 1,
         image: '../images/speakers/speaker1.png',
         name: 'Mohamed Aden Ighe',
-        organization: 'Founder and Chief Executive Officer (CEO) of laxACT Ltd.',
+        organization: 'Founder & CEO of laxACT Ltd.',
         background:
           'Lorem ipsum, dolor sit amet adipisicing elit. Deleniti, molestias.',
     },
@@ -19,7 +19,7 @@ const speakers = [
         id: 3,
         image: '../images/speakers/speaker3.png',
         name: 'Diego Garcia Gonzalez',
-        organization: 'Founder and Chief Executive Officer (CEO) of Formuler Inc.',
+        organization: 'Founder & CEO of Formuler Inc.',
         background:
           'Lorem ipsum, dolor sit amet adipisicing elit. Deleniti, molestias.',
     },
@@ -27,7 +27,7 @@ const speakers = [
         id: 4,
         image: '../images/speakers/speaker4.png',
         name: 'Robert J. Anderson',
-        organization: 'Chief Finaincial Officer (CFO) at Apollo Group TV Ltd.',
+        organization: 'Chief Financial Officer (CFO) of Apollo Group TV Ltd.',
         background:
           'Lorem ipsum, dolor sit amet adipisicing elit. Deleniti, molestias.',
     },
@@ -35,7 +35,7 @@ const speakers = [
         id: 5,
         image: '../images/speakers/speaker5.png',
         name: 'Reza Shah Ahmadi',
-        organization: 'Founder and Chief Executive Officer (CEO) of Jadoo TV Inc.',
+        organization: 'Founder & CEO of Jadoo TV Inc.',
         background:
           'Lorem ipsum, dolor sit amet adipisicing elit. Deleniti, molestias.',
     },
@@ -43,7 +43,7 @@ const speakers = [
         id: 6,
         image: '../images/speakers/speaker6.png',
         name: 'Arvinder Singh',
-        organization: 'Marketing Director of IPTV Smarters (WHMCS Smarters Ltd.)',
+        organization: 'Marketing Director of IPTV Smarters Ltd.',
         background:
           'Lorem ipsum, dolor sit amet adipisicing elit. Deleniti, molestias.',
     }
