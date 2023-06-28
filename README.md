@@ -65,7 +65,7 @@ This capstone project is built and configured using the following tools:
 </details>
 
 <details>
-<summary>Git & GitHub</summary>
+<summary>Git / GitHub</summary>
   <ul>
     <li><a href="https://git-scm.com/">Git</a></li>
     <li><a href="https://www.github.com/">Github</a></li>
@@ -86,7 +86,7 @@ This capstone project is built and configured using the following tools:
 <!-- Features -->
 ### Key Features <a name="key-features"></a>
 
-There are three key features used in my personal portfolio project include: 
+The three key features used in my personal portfolio project include: 
 
 - **An interactive mobile menu page.**
 - **An interactive photo gallery about laxACT's previous streaming conferences.**
@@ -121,9 +121,7 @@ In order to run this project you need:
 
 Also, these basic requirements are needed in order to fully understand how the project fully works from the start:
 
-- Should have a basic knowledge of HTML.
-- Should have a basic knowledge of CSS.
-- Should have a basic knowledge of JS (JavaScript).
+- Should have a basic knowledge of HTML, CSS, and JS (JavaScript).
 - Also, it is recommended to have a basic knowledge on how Git and GitHub works. 
 
 ### Setup
@@ -139,8 +137,8 @@ Clone this repository to your desired folder:
 
 Install this project with Visual Studio Code:
 
-- On the Visual Studio Code welcome page, select "Clone Git Repository"
-- Click "Clone from GitHub"
+- On the Visual Studio Code welcome page, select "Clone Git Repository" and click. 
+- Paste the copied repo into the textbox and click "Clone from GitHub" on the top. 
 - Choose which folder where you are going to save the cloned GitHub Repository into your local PC. 
 - Wait for the setup to be complete until it downloads all the content entirely from the GitHub server.
 
@@ -152,8 +150,8 @@ To run the project through the web browser, follow these instructions:
 - The program will open on the browser of your choice, such as Microsoft Edge, Google Chrome, Mozilla Firefox, Opera or Brave. 
 - However, the project will load on Microsoft Edge by default. If you wish to view the project on a different browser, 
   copy this (http://127.0.0.1:5500/) address on the Edge browser and past it to your web browser of your choice. 
-- If you want to view the project on smartphone mode, right click your mouse and select "Inspect". Once the feature is opened
-  you can view the website in mobile mode, the default size of a mobile version is 375x768 while desktop format is at 1024x768.
+- If you want to view the project on smartphone mode, right click your mouse and select "Inspect". Once it is opened, you 
+  can view the website in mobile mode, the default size of a mobile version is set at 375x768 while desktop format is at 1024x768.
 
 ### Deployment
 
@@ -184,7 +182,7 @@ Feel free to check the [issues page](https://github.com/katarighe/microverse-cap
 <!-- SUPPORT -->
 ## ⭐️ Show your support <a name="support"></a>
 
-Give a ⭐️ if you like this project! You can visit my GitHub profile for more of my projects. 
+Give a star⭐️ or a thumbs up 👍 if you like this project! You can visit my GitHub profile for more of my projects. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
