@@ -88,9 +88,9 @@ This capstone project is built and configured using the following tools:
 
 The three key features used in my personal portfolio project include: 
 
-- **An interactive mobile menu page.**
-- **An interactive photo gallery about laxACT's previous streaming conferences.**
-- **Storing the details of conference speakers through 1 separate JS file.**
+- An interactive mobile menu page.
+- An interactive photo gallery about laxACT's previous streaming conferences.
+- Storing the details of conference speakers through 1 separate JS file.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
