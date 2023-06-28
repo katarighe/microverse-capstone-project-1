@@ -6,8 +6,6 @@
   <img src="https://github.com/katarighe/microverse-capstone-project-1/blob/draft-version/images/logo/laxact-streaming-conference-2023.png"  height="auto" />
   <br/>
 
-  <h3><b>Microverse Module 1 Capstone Project (HTML/CSS/JS)</b></h3>
-
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -34,7 +32,7 @@
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Microverse Module 1 Capstone Project (HTML/CSS/JS) <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
