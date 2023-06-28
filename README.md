@@ -30,16 +30,16 @@
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
-# 📖 Microverse Module 1 Capstone Project (HTML/CSS/JS) <a name="about-project"></a>
+# 📖 Microverse Module 1 Capstone Project<a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> This is the First Capstone Project of Microverse, a fictional conference website done with a combination of HTML/CSS/JS langauges, as well as using several applications to keep the project on track.
 
-# 📖 Microverse Module 1 Capstone Project (HTML/CSS/JS) <a name="about-project"></a>
+# 📖 Microverse Module 1 Capstone Project <a name="about-project"></a>
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-This website is built using the following sources:
+This capstone project is built using the following sources:
 
 <details>
   <summary>Languages</summary>
