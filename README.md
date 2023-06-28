@@ -100,7 +100,7 @@ The three key features used in my personal portfolio project include:
 The Live Demo of this Capstone Project is available now on GitHub Pages and Loom.
 
 - [Live Demo Link on GitHub pages](https://katarighe.github.io/microverse-capstone-project-1/)
-- [A 5 min Video Presentation of the Website on Loom](https://loom.com)
+- Video Presentation of the Website on Loom: [Part 1](https://www.loom.com/share/2b5bd417bf114a779da6f25fd133a94b?sid=24aa233a-cee4-435e-abd0-a847ecfc6e94) [Part 2](https://www.loom.com/share/1223f8d85cd740cb80d3781659791e15)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
