@@ -9,7 +9,7 @@ body {
   width: 100%;
 }
 
-/* Upside */
+/* Upside Menu */
 .upside {
   display: flex;
   justify-content: flex-end;
@@ -33,7 +33,7 @@ body {
   opacity: 0.7;
 }
 
-/* Navbar */
+/* Navigation Menu */
 nav {
   width: 100%;
   display: flex;
@@ -97,7 +97,7 @@ nav {
   opacity: 0.8;
 }
 
-/* First Section (Intro) */
+/* First Page */
 .main-content-headers {
   width: 80%;
 }
@@ -142,6 +142,7 @@ nav {
   font-size: 1.25rem;
 }
 
+/* Main Program */
 .program-items {
   opacity: 1;
   display: flex;
@@ -198,7 +199,7 @@ nav {
   cursor: pointer;
 }
 
-/* Speakers */
+/* (This Years) Conference Speakers */
 .speakers-btn {
   display: none;
 }
@@ -208,6 +209,14 @@ nav {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+}
+
+.featured-speakers-header {
+  margin: 0.1%;
+}
+
+.speakers-display {
+  display: flex;
 }
 
 /* Partners */
@@ -266,13 +275,13 @@ nav {
   font-size: 1.25rem;
 }
 
-/* Previous Activities */
-.previous-activities {
+/* (Gallery of) Previous Events */
+.previous-events {
   width: 100%;
   margin: 0.1%;
 }
 
-.activities {
+.events {
   width: 100%;
   display: flex;
   flex-direction: row;
@@ -284,7 +293,7 @@ nav {
   margin-top: 0;
 }
 
-.previous-first-activity {
+.previous-first-event {
   width: 40%;
   min-height: 300px;
   background: url("https://www.shoaibahmedshaikh.com/wp-content/uploads/2021/11/team-meet-3.jpg");
@@ -294,7 +303,7 @@ nav {
   margin: 5% 0;
 }
 
-.previous-second-activity {
+.previous-second-event {
   width: 40%;
   min-height: 300px;
   background: url("https://livestream.com/blog/wp-content/uploads/2021/03/live-stream-a-conference-guide_blog-header-scaled.jpg");
@@ -304,7 +313,7 @@ nav {
   margin: 5% 0;
 }
 
-.first-activity-content {
+.first-event-content {
   width: 100%;
   height: 100%;
   position: absolute;
@@ -341,7 +350,7 @@ nav {
   font-family: 'lato', sans-serif;
 }
 
-/* Others */
+/* Horizontal Line Position */
 .full-horizontal-line {
   border-width: 0;
   height: 1px;
@@ -349,12 +358,4 @@ nav {
   width: 100%;
   opacity: 0.6;
   margin: 0.5% 1%;
-}
-
-.featured-speakers-header {
-  margin: 0.1%;
-}
-
-.speakers-display {
-  display: flex;
 }
