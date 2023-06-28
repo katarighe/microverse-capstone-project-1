@@ -21,8 +21,6 @@
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
-  - [Install](#install)
-  - [Usage](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#deployment)
 - [👥 Authors](#authors)
@@ -70,14 +68,12 @@ This website is built using the following sources:
 </details>
 
 <!-- Features -->
-
 ### Key Features <a name="key-features"></a>
+There are three key features used in my personal portfolio project include: 
 
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **The ability to see my project.**
+- **The ability to see my work history.**
+- **The ability to contact me through GitHub and Social Media.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,7 +88,6 @@ This website is built using the following sources:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 > Describe how a new developer could make use of your project.
@@ -100,58 +95,27 @@ This website is built using the following sources:
 To get a local copy of this project up and running, follow these steps.
 
 ### Prerequisites
-
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+- To have Visual Studio Code (VSC) ready. 
+- To have your preferable web browser ready. Microsoft Edge and Google Chrome (their latest version) are considerd the best web browsers for viewing. 
+- GitHub Desktop also be used as an option, but VSC is recommended because of their git capability, as well as configuring the Web Linters (Lighthouse/Stylelint/Webhint/ES Lint).
 
 ### Setup
-
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
+-  git clone git@github.com:katarighe/microverse-capstone-project-1.git
 
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+Install this project with Visual Studio Code:
 
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+- On the Visual Studio Code welcome page, select "Clone Git Repository"
+- Click "Clone from GitHub"
+- Choose which folder where you are going to save the cloned GitHub Repository into your local PC. 
+- Wait for the setup to be complete until it downloads all the content entirely from the GitHub server.
 
 ### Run tests
 
-To run tests, run the following command:
+To run the project through the web browser, follow these suggestions:
 
 <!--
 Example command:
@@ -162,23 +126,13 @@ Example command:
 --->
 
 ### Deployment
-
 You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+- GitHub pages 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
-
 ## 👥 Authors <a name="authors"></a>
-
 👤 **Mohamed Aden Ighe**
 
 - GitHub: [@katarighe](https://github.com/katarighe)
@@ -218,11 +172,8 @@ I would like to thank...
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
-
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is <a href="https://github.com/katarighe/microverse-capstone-project-1/blob/main/LICENSE">MIT licensed</a>.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
