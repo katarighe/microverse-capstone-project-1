@@ -1,4 +1,4 @@
-# Microverse Module 1 Capstone Project
+# Microverse Capstone Project (Module 1)
 <a name="readme-top"></a>
 
 <div align="center">
