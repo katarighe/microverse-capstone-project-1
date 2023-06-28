@@ -111,8 +111,8 @@ To get a local copy of this project up and running, follow these steps.
 
 In order to run this project you need:
 
-- To have Visual Studio Code (VSC) ready. 
-- To have your preferable web browser ready. Microsoft Edge and Google Chrome (their latest version) are considerd the best web browsers for viewing. 
+- To have Visual Studio Code (VSC) ready while loading the project. 
+- To have a preferable web browser ready while viewing the project. Microsoft Edge and Google Chrome (their latest version) are considerd the best web browsers for viewing. 
 - GitHub Desktop also be used as an option, but VSC is recommended code editor because of their git capability, as well as configuring the Web Linters (Lighthouse/Stylelint/Webhint/ES Lint).
 
 Also, these basic requirements are needed in order to fully understand how the project fully works from the start:
@@ -124,8 +124,10 @@ Also, these basic requirements are needed in order to fully understand how the p
 ### Setup
 
 Before starting with the project, follow these instructions: 
-- Visual Studio Code Download Link: https://code.visualstudio.com/download
-- How to Install Visual Studio Code on Windows 7/8.1/10/11: https://www.youtube.com/watch?v=MlIzFUI1QGA
+- [Visual Studio Code Download Link](https://code.visualstudio.com/download/)
+- [How to Install Visual Studio Code on Windows 7/8.1/10/11](https://www.youtube.com/watch?v=MlIzFUI1QGA/)
+- [GitHub Desktop Download Link](https://desktop.github.com/)
+- [Instructions on Using GitHub Desktop easily](https://www.youtube.com/watch?v=RPagOAUx2SQ/)
 
 Clone this repository to your desired folder:
 -  git clone git@github.com:katarighe/microverse-capstone-project-1.git
@@ -150,7 +152,7 @@ To run the project through the web browser, follow these instructions:
 
 ### Deployment
 
-You can deploy this project using GitHub Pages, it is free and easy to apply in your project without difficulties: https://pages.github.com/
+You can deploy this project using [GitHub Pages](https://pages.github.com/), it is free and easy to apply in your project without difficulties.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -185,9 +187,9 @@ Give a ⭐️ if you like this project! You can visit my GitHub profile for more
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - [Microverse](https//www.microverse.org/) 
--  Original design theme is made by [Cindy Shin on Behance](https://www.behance.net/adagio07/)
-- Link to the original design theme is available [here](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015/).
-- [Creative Commons](https://creativecommons.org/licenses/by-nc/4.0/)
+-  Original design theme is by [Cindy Shin on Behance](https://www.behance.net/adagio07/)
+- Link to the original design theme by C. Shin is available [here](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015/).
+- [Creative Commons 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -205,3 +207,4 @@ This project is <a href="https://github.com/katarighe/microverse-capstone-projec
 
 **Desktop Version**
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
