@@ -28,16 +28,12 @@
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
-- [📝 Project Gallery](#gallery)
+- [🖼️ Project Gallery](#gallery)
 
 <!-- PROJECT DESCRIPTION -->
 # 📖 Microverse Module 1 Capstone Project<a name="about-project"></a>
 
 > This is the First Capstone Project of Microverse, a fictional conference website done with a combination of HTML/CSS/JS langauges, including the use several applications and configurations to keep the project on track.
-
-# 📖 Microverse Module 1 Capstone Project <a name="about-project"></a>
-
-
 
 Capstone Project 1 is built as part of the 12-month Microverse Full-Stack Development Program. The mobile project was first applied in this project, followed by the desktop one. 
 
