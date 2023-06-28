@@ -28,13 +28,18 @@
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
+- [📝 Project Gallery](#gallery)
 
 <!-- PROJECT DESCRIPTION -->
 # 📖 Microverse Module 1 Capstone Project<a name="about-project"></a>
 
-> This is the First Capstone Project of Microverse, a fictional conference website done with a combination of HTML/CSS/JS langauges, as well as using several applications to keep the project on track.
+> This is the First Capstone Project of Microverse, a fictional conference website done with a combination of HTML/CSS/JS langauges, including the use several applications and configurations to keep the project on track.
 
 # 📖 Microverse Module 1 Capstone Project <a name="about-project"></a>
+
+
+
+Capstone Project 1 is built as part of the 12-month Microverse Full-Stack Development Program. The mobile project was first applied in this project, followed by the desktop one. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -69,11 +74,12 @@ This capstone project is built using the following sources:
 
 <!-- Features -->
 ### Key Features <a name="key-features"></a>
+
 There are three key features used in my personal portfolio project include: 
 
-- **The ability to see my project.**
-- **The ability to see my work history.**
-- **The ability to contact me through GitHub and Social Media.**
+- **An interactive mobile menu page.**
+- **An interactive gallery about laxACT's previous streaming conferences.**
+- **Storing the details of conference speakers through 1 separate JS file.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -81,9 +87,9 @@ There are three key features used in my personal portfolio project include:
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+The Live Demo of this Capstone Project is available now on GitHub Pages and Loom.
 
-- [Live Demo Link](https://google.com)
+- [Live Demo Link on GitHub pages](https://katarighe.github.io/microverse-capstone-project-1/)
 - [Loom] (https://google.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -91,20 +97,29 @@ There are three key features used in my personal portfolio project include:
 <!-- GETTING STARTED -->
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy of this project up and running, follow these steps.
 
 ### Prerequisites
+
 In order to run this project you need:
 
 - To have Visual Studio Code (VSC) ready. 
 - To have your preferable web browser ready. Microsoft Edge and Google Chrome (their latest version) are considerd the best web browsers for viewing. 
-- GitHub Desktop also be used as an option, but VSC is recommended because of their git capability, as well as configuring the Web Linters (Lighthouse/Stylelint/Webhint/ES Lint).
+- GitHub Desktop also be used as an option, but VSC is recommended code editor because of their git capability, as well as configuring the Web Linters (Lighthouse/Stylelint/Webhint/ES Lint).
+
+Also, these basic requirements are needed in order to fully understand how the project fully works from the start:
+- Should have a basic knowledge of HTML.
+- Should have a basic knowledge of CSS.
+- Should have a basic knowledge of JS (JavaScript).
+- Also, it is recommended to have a basic knowledge on how Git and GitHub works. 
 
 ### Setup
-Clone this repository to your desired folder:
 
+Before starting with the project, follow these instructions: 
+- Visual Studio Code Download Link: https://code.visualstudio.com/download
+- How to Install Visual Studio Code on Windows 7/8.1/10/11: https://www.youtube.com/watch?v=MlIzFUI1QGA
+
+Clone this repository to your desired folder:
 -  git clone git@github.com:katarighe/microverse-capstone-project-1.git
 
 Install this project with Visual Studio Code:
@@ -116,24 +131,24 @@ Install this project with Visual Studio Code:
 
 ### Run tests
 
-To run the project through the web browser, follow these suggestions:
+To run the project through the web browser, follow these instructions:
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
+- Press "Go Live" on the bottom of the visual Studio Code. 
+- The program will open on the browser of your choice, such as Microsoft Edge, Google Chrome, Mozilla Firefox, Opera or Brave. 
+- However, the project will load on Microsoft Edge by default. If you wish to view the project on a different browser, 
+  copy this (http://127.0.0.1:5500/) address on the Edge browser and past it to your web browser of your choice. 
+- If you want to view the project on smartphone mode, right click your mouse and select "Inspect". Once the feature is opened
+  you can view the website in mobile mode, the default size of a mobile version is 375x768 while desktop format is at 1024x768.
 
 ### Deployment
-You can deploy this project using:
-- GitHub pages 
+
+You can deploy this project using GitHub Pages, it is free and easy to apply in your project without difficulties: https://pages.github.com/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 ## 👥 Authors <a name="authors"></a>
+
 👤 **Mohamed Aden Ighe**
 
 - GitHub: [@katarighe](https://github.com/katarighe)
@@ -143,32 +158,27 @@ You can deploy this project using:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
-
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/katarighe/microverse-capstone-project-1/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
-
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+Give a ⭐️ if you like this project! You can visit my GitHub profile for more of my projects. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+- Microverse 
+-  Original design theme is made by [Cindy Shin on Behance](https://www.behance.net/adagio07)
+- [Creative Commons](https://creativecommons.org/licenses/by-nc/4.0/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -178,3 +188,12 @@ I would like to thank...
 This project is <a href="https://github.com/katarighe/microverse-capstone-project-1/blob/main/LICENSE">MIT licensed</a>.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Project Gallery -->
+## 🖼️ Project Gallery <a name="gallery"></a>
+
+**Mobile Version**
+
+
+**Desktop Version**
+
