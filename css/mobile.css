@@ -25,7 +25,7 @@ header {
   width: 100%;
 }
 
-/* Upside */
+/* Upside Menu */
 .upside {
   display: none;
 }
@@ -116,7 +116,7 @@ nav h2 {
   display: none;
 }
 
-/* First Section */
+/* First Page */
 .container {
   width: 100%;
   margin: 0;
@@ -186,7 +186,6 @@ nav h2 {
   background-size: cover;
 }
 
-/* First Section Infos */
 .infos {
   margin: 10% 0;
 }
@@ -236,7 +235,7 @@ nav h2 {
   display: none;
 }
 
-/* Event Speakers */
+/* (This Years) Conference Speakers */
 .featured-speakers-header {
   margin: 1%;
 }
@@ -277,81 +276,6 @@ nav h2 {
   display: none;
 }
 
-/* Previous Activities */
-.previous-activities {
-  margin: 5% 0;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-.activities {
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-.previous-content {
-  width: 80%;
-  margin-top: 5%;
-  font-size: 1.1rem;
-}
-
-.previous-first-activity {
-  width: 100%;
-  min-height: 200px;
-  background: url("https://www.shoaibahmedshaikh.com/wp-content/uploads/2021/11/team-meet-3.jpg");
-  background-size: cover;
-  position: relative;
-  opacity: 1;
-  margin: 5% 0;
-}
-
-.previous-second-activity {
-  width: 100%;
-  min-height: 200px;
-  background: url("https://livestream.com/blog/wp-content/uploads/2021/03/live-stream-a-conference-guide_blog-header-scaled.jpg");
-  background-size: cover;
-  position: relative;
-  opacity: 1;
-  margin: 5% 0;
-}
-
-.first-activity-content {
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  opacity: 0.8;
-  color: #fff;
-  background-color: #ec5242;
-}
-
-.act:hover {
-  opacity: 0.7;
-}
-
-/* About Us */
-.about-us {
-  width: 100%;
-  margin-bottom: 10%;
-  margin-top: 5%;
-}
-
-.about-us-content {
-  margin: 1% 5%;
-  padding: 3%;
-}
-
-.group-photo {
-  width: 100%;
-  margin: 1%;
-}
-
 /* Partners */
 .partners {
   width: 100%;
@@ -384,6 +308,81 @@ nav h2 {
 .list-item {
   width: 80px;
   height: 80px;
+}
+
+/* About Us */
+.about-us {
+  width: 100%;
+  margin-bottom: 10%;
+  margin-top: 5%;
+}
+
+.about-us-content {
+  margin: 1% 5%;
+  padding: 3%;
+}
+
+.group-photo {
+  width: 100%;
+  margin: 1%;
+}
+
+/* (Gallery of) Previous Events */
+.previous-events {
+  margin: 5% 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.events {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.previous-content {
+  width: 80%;
+  margin-top: 5%;
+  font-size: 1.1rem;
+}
+
+.previous-first-event {
+  width: 100%;
+  min-height: 200px;
+  background: url("https://www.shoaibahmedshaikh.com/wp-content/uploads/2021/11/team-meet-3.jpg");
+  background-size: cover;
+  position: relative;
+  opacity: 1;
+  margin: 5% 0;
+}
+
+.previous-second-event {
+  width: 100%;
+  min-height: 200px;
+  background: url("https://livestream.com/blog/wp-content/uploads/2021/03/live-stream-a-conference-guide_blog-header-scaled.jpg");
+  background-size: cover;
+  position: relative;
+  opacity: 1;
+  margin: 5% 0;
+}
+
+.first-event-content {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0.8;
+  color: #fff;
+  background-color: #ec5242;
+}
+
+.act:hover {
+  opacity: 0.7;
 }
 
 /* Footer */
