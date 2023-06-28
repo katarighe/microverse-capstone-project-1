@@ -152,13 +152,13 @@ input[type="reset"] {
 
 /* Header */
 .main-program-header {
-  color:white;
+  color: white;
   display: flex;
   flex-direction: column;
 }
 
 .partners-heading {
-  color:white;
+  color: white;
   display: flex;
   flex-direction: column;
 }
