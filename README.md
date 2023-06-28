@@ -6,6 +6,8 @@
   <img src="https://github.com/katarighe/microverse-capstone-project-1/blob/draft-version/images/logo/laxact-streaming-conference-2023.png"  height="auto" />
   <br/>
 
+  <h3><b>laxACT Streaming Conference 2023</b></h3>
+
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -24,11 +26,9 @@
   - [Run tests](#run-tests)
   - [Deployment](#deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -36,13 +36,12 @@
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+# 📖 Microverse Module 1 Capstone Project (HTML/CSS/JS) <a name="about-project"></a>
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> This website is built using the following sources:
+This website is built using the following sources:
 
 <details>
   <summary>Languages</summary>
@@ -98,7 +97,7 @@
 
 > Describe how a new developer could make use of your project.
 
-To get a local copy up and running, follow these steps.
+To get a local copy of this project up and running, follow these steps.
 
 ### Prerequisites
 
@@ -188,18 +187,6 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -227,22 +214,6 @@ If you like this project...
 > Give credit to everyone who inspired your codebase.
 
 I would like to thank...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
