@@ -206,7 +206,7 @@ This project is <a href="https://github.com/katarighe/microverse-capstone-projec
 <!-- Project Gallery -->
 ## 🖼️ Project Gallery <a name="gallery"></a>
 
-The Homepage section will be shown only. If you would like to view the rest please visit the link provided by GitHub Pages.
+The homepage section will be shown only as a sample for this project. If you would like to view the rest please visit the link inside the README file.
 
 **Mobile Version**
 
