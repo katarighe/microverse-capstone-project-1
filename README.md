@@ -84,6 +84,7 @@ There are three key features used in my personal portfolio project include:
 > Add a link to your deployed project.
 
 - [Live Demo Link](https://google.com)
+- [Loom] (https://google.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
