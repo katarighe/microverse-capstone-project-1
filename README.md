@@ -2,7 +2,6 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img src="https://github.com/katarighe/microverse-capstone-project-1/blob/draft-version/images/logo/laxact-streaming-conference-2023.png"  height="auto" />
   <br/>
 
@@ -34,6 +33,10 @@
 # 📖 Microverse Capstone Project (Module 1)<a name="about-project"></a>
 
 > This is the First Capstone Project of Microverse, a fictional conference website done with a combination of HTML/CSS/JS langauges, as well as using web applications and configurations to keep the project functioning.
+
+Capstone Project (Module 1) is a website that announced for the upcoming TV streaming conference organized by laxACT Ltd., a local IT company that specializes in multimedia technology. The conference will be held from July 4 to 7, 2023 at the Crest Towers, Diego Garcia, BIOT. General information about the  conference and the organizer is detailed throughout the first two pages of the site. There are additional sections of the website which includes joining this years conference and contacting the company responsible for holding the conference. However, these sections are still under construction and will be updated in the future. 
+
+The content inside the website is fictional, as the photos of Speakers, Partners, and, etc. are randomly obtained through [Google Images](https://images.google.com/). The project was created using HTML, CSS, and JavaScript in order to meet [the requirements defined](https://github.com/microverseinc/curriculum-html-css/blob/main/capstone/html_capstone.md) within the scope of the [Microverse Capstone Project](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/capstone-projects-at-microverse.md). More specially, I would like to point out that the website I create is done from scratch, but just to make it similar according to original design by Cindy Shin on Behance. See [Acknowledgements](#acknowledgements) for more details. 
 
 Capstone Project (Module 1) is built as part of the 12-month Microverse Full-Stack Development Program. The mobile project was first applied in this project, followed by the desktop one. 
 
@@ -92,7 +95,6 @@ There are three key features used in my personal portfolio project include:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
-
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 The Live Demo of this Capstone Project is available now on GitHub Pages and Loom.
@@ -104,6 +106,8 @@ The Live Demo of this Capstone Project is available now on GitHub Pages and Loom
 
 <!-- GETTING STARTED -->
 ## 💻 Getting Started <a name="getting-started"></a>
+
+The project that you are going to build is based on an online website for a fictitious non-existent media streaming conference. This repo provides some of the design guidelines for you to create the website. It is very important that when you personalize your project, it must have something unique in your portfolio to share with potential employers during the job searching process. 
 
 To get a local copy of this project up and running, follow these steps.
 
@@ -187,7 +191,7 @@ Give a ⭐️ if you like this project! You can visit my GitHub profile for more
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - [Microverse](https//www.microverse.org/) 
--  Original design theme is by [Cindy Shin on Behance](https://www.behance.net/adagio07/)
+- Original design theme is by [Cindy Shin on Behance](https://www.behance.net/adagio07/)
 - Link to the original design theme by C. Shin is available [here](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015/).
 - [Creative Commons 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/)
 
