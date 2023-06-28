@@ -38,7 +38,7 @@ Capstone Project (Module 1) is a website that announced for the upcoming TV stre
 
 The content inside the website is fictional, as the photos of Speakers, Partners, and, etc. are randomly obtained through [Google Images](https://images.google.com/). The project was created using HTML, CSS, and JavaScript in order to meet [the requirements defined](https://github.com/microverseinc/curriculum-html-css/blob/main/capstone/html_capstone.md) within the scope of the [Microverse Capstone Project](https://github.com/microverseinc/curriculum-professional-skills/blob/main/becoming-a-remote-professional/capstone-projects-at-microverse.md). More specially, I would like to point out that the website I create is done from scratch, but just to make it similar according to original design by Cindy Shin on Behance. See [Acknowledgements](#acknowledgements) for more details. 
 
-Capstone Project (Module 1) is built as part of the 12-month Microverse Full-Stack Development Program. The mobile project was first applied in this project, followed by the desktop one. 
+Capstone Project (Module 1) is built as part of the 12-month Microverse Full-Stack Web Development Program. The mobile project was first applied in this project, followed by the desktop one. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
