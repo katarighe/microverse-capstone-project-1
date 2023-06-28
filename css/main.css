@@ -1,4 +1,4 @@
-/* Fonts */
+/* Cocogoose Font Family */
 @font-face {
   font-family: "cocogoose";
   src: url("../assets/fonts/cocogoose/Cocogoose Pro-trial.ttf");
@@ -66,14 +66,13 @@
   background: rgba(250, 247, 247, 0.829);
 }
 
-/* Website Container */
+/* Website Layout */
 .container {
   width: 100%;
   padding: 5%;
   background-image: url("../images/utilities/pattern.jpg");
 }
 
-/* Website Layout */
 .flex-row-center {
   display: flex;
   justify-content: center;
@@ -108,6 +107,18 @@
 }
 
 /* Join Us Button */
+button,
+input[type="submit"],
+input[type="reset"] {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+}
+
 .btn {
   width: 300px;
   height: 60px;
@@ -137,17 +148,4 @@
 
 .margin-vertical {
   margin: 5% 0;
-}
-
-/* Button */
-button,
-input[type="submit"],
-input[type="reset"] {
-  background: none;
-  color: inherit;
-  border: none;
-  padding: 0;
-  font: inherit;
-  cursor: pointer;
-  outline: inherit;
 }
