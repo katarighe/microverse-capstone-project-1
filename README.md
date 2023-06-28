@@ -189,7 +189,7 @@ Give a star⭐️ or a thumbs up 👍 if you like this project! You can visit my
 <!-- ACKNOWLEDGEMENTS -->
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- [Microverse](https//www.microverse.org/) 
+- Project supervised by [Microverse](https//www.microverse.org/) 
 - Original design theme is by [Cindy Shin on Behance](https://www.behance.net/adagio07/)
 - Link to the original design theme by C. Shin is available [here](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015/).
 - [Creative Commons 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/)
