@@ -31,16 +31,18 @@
 - [🖼️ Project Gallery](#gallery)
 
 <!-- PROJECT DESCRIPTION -->
-# 📖 Microverse Module 1 Capstone Project<a name="about-project"></a>
+# 📖 Microverse Capstone Project (Module 1)<a name="about-project"></a>
 
-> This is the First Capstone Project of Microverse, a fictional conference website done with a combination of HTML/CSS/JS langauges, including the use several applications and configurations to keep the project on track.
+> This is the First Capstone Project of Microverse, a fictional conference website done with a combination of HTML/CSS/JS langauges, as well as using web applications and configurations to keep the project functioning.
 
-Capstone Project 1 is built as part of the 12-month Microverse Full-Stack Development Program. The mobile project was first applied in this project, followed by the desktop one. 
+Capstone Project (Module 1) is built as part of the 12-month Microverse Full-Stack Development Program. The mobile project was first applied in this project, followed by the desktop one. 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-This capstone project is built using the following sources:
+This capstone project is built using the following items:
 
 <details>
   <summary>Languages</summary>
@@ -52,7 +54,7 @@ This capstone project is built using the following sources:
 </details>
 
 <details>
-  <summary>Applications</summary>
+  <summary>Web Applications</summary>
   <ul>
     <li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
     <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
@@ -60,11 +62,21 @@ This capstone project is built using the following sources:
 </details>
 
 <details>
-<summary>Repository</summary>
+<summary>Git & GitHub</summary>
   <ul>
     <li><a href="https://git-scm.com/">Git</a></li>
     <li><a href="https://www.github.com/">Github</a></li>
     <li><a href="https://pages.github.com/">Github Pages</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Web Configuration Tools</summary>
+  <ul>
+    <li><a href="https://developer.chrome.com/docs/lighthouse/overview/">Lighthouse</a></li>
+    <li><a href="https://stylelint.io/">Stylelint</a></li>
+    <li><a href="https://webhint.io/">Webhint</a></li>
+    <li><a href="https://eslint.org/">ES Lint</a></li>
   </ul>
 </details>
 
@@ -74,7 +86,7 @@ This capstone project is built using the following sources:
 There are three key features used in my personal portfolio project include: 
 
 - **An interactive mobile menu page.**
-- **An interactive gallery about laxACT's previous streaming conferences.**
+- **An interactive photo gallery about laxACT's previous streaming conferences.**
 - **Storing the details of conference speakers through 1 separate JS file.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -172,8 +184,9 @@ Give a ⭐️ if you like this project! You can visit my GitHub profile for more
 <!-- ACKNOWLEDGEMENTS -->
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- Microverse 
--  Original design theme is made by [Cindy Shin on Behance](https://www.behance.net/adagio07)
+- [Microverse](https//www.microverse.org/) 
+-  Original design theme is made by [Cindy Shin on Behance](https://www.behance.net/adagio07/)
+- Link to the original design theme is available [here](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015/).
 - [Creative Commons](https://creativecommons.org/licenses/by-nc/4.0/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -189,7 +202,6 @@ This project is <a href="https://github.com/katarighe/microverse-capstone-projec
 ## 🖼️ Project Gallery <a name="gallery"></a>
 
 **Mobile Version**
-
 
 **Desktop Version**
 
