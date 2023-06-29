@@ -277,41 +277,42 @@ nav h2 {
 }
 
 /* Partners */
-.partners {
+.partners-mobile {
   width: 100%;
   opacity: 0.9;
   margin: 0;
   background: #272a31;
 }
 
-.partners-heading {
-  margin-top: 10%;
+.partners-desktop-1 {
+  display: none;
 }
 
-.partners-list ul {
+.partners-mobile-heading {
+  margin-top: 10%;
+  color: #fff;
+}
+
+.partners-mobile-list ul {
   display: flex;
   flex-direction: row;
 }
 
-.list-item-container {
+.list-item-mobile-container {
   margin: 10% 5%;
 }
 
-.list-item-container:hover {
+.list-item-mobile-container:hover {
   opacity: 0.7;
 }
 
-.list-item-container::marker {
+.list-item-mobile-container::marker {
   color: #272a31;
 }
 
-.list-item {
+.list-item-mobile {
   width: 70px;
   height: 70px;
-}
-
-.partners-desktop {
-  display: none;
 }
 
 /* About Us */
@@ -402,16 +403,25 @@ nav h2 {
 }
 
 .home-footer {
+  display: none;
+}
+
+.about-footer-desktop {
+  display: none;
+}
+
+.about-footer-mobile {
   display: flex;
   align-items: center;
   padding: 3% 10%;
   gap: 35px;
+  opacity: 0.9;
 }
 
-.host {
+.host-mobile {
   width: 60%;
 }
 
-.host img {
+.host-mobile img {
   width: 100px;
 }

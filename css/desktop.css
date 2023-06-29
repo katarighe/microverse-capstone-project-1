@@ -225,34 +225,38 @@ nav {
 }
 
 /* Partners */
-.partners {
+.partners-desktop {
   width: 100%;
   opacity: 0.9;
   margin: 0;
   background: #272a31;
 }
 
-.partners-heading {
+.partners-desktop-heading {
   margin-top: 1%;
 }
 
-.partners-list {
+.partners-desktop-list {
   display: flex;
   flex-direction: row;
   width: 100%;
 }
 
-.list-item {
+.list-item-desktop {
   width: 150px;
   height: 150px;
 }
 
-.list-item-container {
+.list-item-desktop-container {
   display: flex;
   align-items: center;
   width: 100%;
   margin: 1% 1%;
   cursor: pointer;
+}
+
+.partners-mobile {
+  display: none;
 }
 
 /* About Us */
@@ -347,6 +351,19 @@ nav {
   gap: 250px;
 }
 
+.about-footer-desktop {
+  display: flex;
+  align-items: center;
+  padding: 0.5% 20%;
+  gap: 250px;
+  background-color: #272a31;
+  opacity: 0.9;
+}
+
+.about-footer-mobile {
+  display: none;
+}
+
 .host {
   width: 30%;
 }
@@ -363,6 +380,17 @@ nav {
   font-size: 2vw;
   font-weight: 600;
   font-family: 'lato', sans-serif;
+}
+
+.host-about-title {
+  margin: 1px;
+}
+
+.host-about-title span {
+  font-size: 2vw;
+  font-weight: 600;
+  font-family: 'lato', sans-serif;
+  color: #fff;
 }
 
 /* Horizontal Line Position */
