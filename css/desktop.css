@@ -369,9 +369,8 @@ nav {
   display: flex;
   align-items: center;
   padding: 0.5% 20%;
-  gap: 250px;
+  gap: 200px;
   background-color: #272a31;
-  opacity: 0.9;
 }
 
 .about-footer-mobile {
@@ -384,6 +383,10 @@ nav {
 
 .host img {
   width: 100%;
+}
+
+.host-desktop img {
+  width: 60%;
 }
 
 .host-title {
