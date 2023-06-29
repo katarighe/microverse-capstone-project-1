@@ -50,20 +50,24 @@
 }
 
 .light-gray {
-  color: #d3d3d3;
+  color: gray;
+}
+
+.white {
+  color: #fff;
 }
 
 /* Background Colors */
-.bg-peach-puff {
-  background: peachpuff;
-}
-
 .bg-dark-orange {
   background: #ec5242;
 }
 
 .bg-light-gray {
   background: rgba(250, 247, 247, 0.829);
+}
+
+.bg-light-dark {
+  background-color: #272a31;
 }
 
 /* Website Layout */
@@ -91,7 +95,7 @@
   border-width: 0;
   height: 2px;
   background-color: #ec5242;
-  width: 15%;
+  width: 5%;
   opacity: 0.9;
   margin-bottom: 5%;
   margin-top: 2%;

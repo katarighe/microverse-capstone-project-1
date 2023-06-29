@@ -14,19 +14,18 @@ body {
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  background-color: beige;
+  background-color: #272a31;
   width: 100%;
   height: 30px;
   opacity: 0.9;
-  border-bottom: 1px solid black;
 }
 
 .upside-ul {
-  width: 40%;
+  width: 50%;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding-right: 5%;
+  padding: 5px 15%;
 }
 
 .upside-item:hover {
@@ -53,8 +52,9 @@ nav {
   justify-content: space-between;
   align-items: center;
   color: #272a31;
-  padding: 5px 5%;
+  padding: 1px 14%;
   border-bottom: 1px solid black;
+  background-color: white;
 }
 
 .navbar-ul {
@@ -92,23 +92,29 @@ nav {
 }
 
 .main-logo-img {
-  width: 70px;
-  height: 70px;
-  opacity: 0.8;
+  height: 80px;
+  width: auto;
 }
 
 /* First Page */
 .main-content-headers {
   width: 80%;
+  font-size: 6.5rem;
 }
 
 .main-content-headers h2 {
-  font-size: 2.5rem;
+  font-size: 3.5rem;
 }
 
 .year {
-  font-size: 4.5rem;
+  font-size: 6.5rem;
   margin-bottom: 5%;
+}
+
+.container h1 {
+  font-family: "cocogoose", sans-serif;
+  font-size: 5rem;
+  letter-spacing: 1.5px;
 }
 
 .main-content {
@@ -121,7 +127,6 @@ nav {
 .header-content {
   width: 80%;
   font-size: 1.25rem;
-  background-color: greenyellow;
 }
 
 .infos {
@@ -218,6 +223,8 @@ nav {
 
 .featured-speakers-header {
   margin: 0.1%;
+  margin-top: 1%;
+  margin-bottom: 0.5%;
 }
 
 .speakers-display {
@@ -234,6 +241,11 @@ nav {
 
 .partners-desktop-heading {
   margin-top: 1%;
+}
+
+.partners-desktop-list ul {
+  display: flex;
+  flex-direction: row;
 }
 
 .partners-desktop-list {
@@ -255,8 +267,10 @@ nav {
   cursor: pointer;
 }
 
-.partners-mobile {
-  display: none;
+@media screen and (min-width: 375px) {
+  .partners-mobile {
+    display: none;
+  }
 }
 
 /* About Us */
@@ -401,4 +415,8 @@ nav {
   width: 100%;
   opacity: 0.6;
   margin: 0.5% 1%;
+}
+
+.mobile-hidden {
+  display: none;
 }

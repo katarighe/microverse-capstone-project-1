@@ -47,7 +47,7 @@ nav {
   z-index: -1;
   top: 0;
   left: 0;
-  background-color: peachpuff;
+  background-color: #fff;
   background-size: cover;
   background-repeat: no-repeat;
   opacity: 0.8;
@@ -95,7 +95,7 @@ nav h2 {
   padding: 8px;
   text-decoration: none;
   font-size: 36px;
-  color: #272a31;
+  color: #fff;
   display: block;
   transition: 0.3s;
 }
@@ -145,7 +145,6 @@ nav h2 {
 
 .header-content {
   border: 1px solid #d3d3d3;
-  background-color: greenyellow;
   padding: 3%;
   line-height: 1.5rem;
   backdrop-filter: saturate(130%);
@@ -282,10 +281,6 @@ nav h2 {
   opacity: 0.9;
   margin: 0;
   background: #272a31;
-}
-
-.partners-desktop-1 {
-  display: none;
 }
 
 .partners-mobile-heading {
