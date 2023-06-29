@@ -31,10 +31,10 @@
 
 /* Text Colors */
 .special-color {
-  background: url("https://wallpaperaccess.com/full/1818031.jpg");
+  background: url("https://wallpaperaccess.com/full/1152646.jpg");
   background-position: center;
   background-size: cover;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   -webkit-background-clip: text;
   /* stylelint-disable-next-line csstree/validator */
   background-clip: text;

@@ -135,12 +135,21 @@ nav {
   width: 80%;
 }
 
-.bg-header-image {
-  width: 80%;
+.infos h3 {
+  font-family: "cocogoose", sans-serif;
+  font-size: 3rem;
+  letter-spacing: 1.5px;
 }
 
-.date {
-  font-size: 2rem;
+.date h3 {
+  font-family: "cocogoose", sans-serif;
+  font-size: 3rem;
+  letter-spacing: 1.5px;
+  position: fixed;
+}
+
+.bg-header-image {
+  width: 80%;
 }
 
 .location {
