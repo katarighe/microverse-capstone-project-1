@@ -167,6 +167,11 @@ nav {
   background-color: rgba(211, 211, 211, 0.1882352941);
 }
 
+.program-item:hover {
+  opacity: 0.7;
+  cursor: pointer;
+}
+
 .item-icon {
   width: auto;
   margin: 20px 0;
@@ -189,7 +194,7 @@ nav {
 
 .see-program {
   display: block;
-  color: #ec5242;
+  color: #eee;
   font-size: 1.5rem;
   margin-top: 5%;
 }
@@ -238,8 +243,8 @@ nav {
 }
 
 .list-item {
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
 }
 
 .list-item-container {
@@ -259,6 +264,7 @@ nav {
 
 .about-us {
   margin-bottom: 1px;
+  margin-top: 5%;
   margin-top: 0;
 }
 
@@ -266,13 +272,22 @@ nav {
   margin-top: 5%;
 }
 
-.family-photo {
+.official-logo {
   margin-bottom: 0;
   margin-top: 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+  border: 1px solid #d3d3d3;
 }
 
 .about-us-content {
   font-size: 1.25rem;
+  text-align: center;
+}
+
+.about-us-paragraph {
+  text-align: center;
 }
 
 /* (Gallery of) Previous Events */
