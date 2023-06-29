@@ -49,8 +49,6 @@ const speakers = [
   },
 ];
 
-
-
 const featuredSpeakers = document.querySelector('.speakers-list');
 const speakersButton = document.querySelector('.speakers-btn');
 
