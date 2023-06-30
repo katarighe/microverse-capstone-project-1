@@ -300,6 +300,10 @@ nav h2 {
   flex-direction: row;
 }
 
+/* .partners-desktop {
+  display: none;
+} */
+
 .list-item-mobile-container {
   margin: 10% 5%;
 }
