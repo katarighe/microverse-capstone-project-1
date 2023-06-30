@@ -172,3 +172,10 @@ input[type="reset"] {
   margin-left: 1px;
   margin-right: auto;
 }
+
+hr {
+  border-top: 1px solid black;
+  width: 10%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
