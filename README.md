@@ -209,11 +209,11 @@ This project is <a href="https://github.com/katarighe/microverse-capstone-projec
 The homepage section will be shown only as a sample for this project. If you would like to view the rest please visit my live demo linked located inside of the README file.
 
 **Mobile Version**
-
+<br>
 ![image](https://github.com/katarighe/microverse-capstone-project-1/assets/80690364/abc060fd-6223-467b-97de-a61f29b32f88)
 
 **Desktop Version**
-
+<br>
 ![image](https://github.com/katarighe/microverse-capstone-project-1/assets/80690364/f3ba7817-2d74-4f0f-92aa-e679b219084a)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
