@@ -210,7 +210,7 @@ The homepage section will be shown only as a sample for this project. If you wou
 
 **Mobile Version**
 <br>
-![image](https://github.com/katarighe/microverse-capstone-project-1/assets/80690364/abc060fd-6223-467b-97de-a61f29b32f88)
+![image](https://github.com/katarighe/microverse-capstone-project-1/assets/80690364/3a6e6335-6822-4e39-a50b-f9133a5f3bf4)
 
 **Desktop Version**
 <br>
