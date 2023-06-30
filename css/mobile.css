@@ -288,17 +288,21 @@ nav h2 {
   opacity: 0.9;
   margin: 0;
   background: #272a31;
+  padding: 30px;
 }
 
 .partners-mobile-list {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 50px;
-  padding-bottom: 30px;
+  align-items: center;
+  grid-template-columns: repeat(3, 3fr);
+  gap: 5px;
+  padding-bottom: 15px;
+  grid-gap: 10px;
+  row-gap: 1px;
 }
 
 .partners-mobile-heading {
-  margin-top: 10%;
+  margin-top: 5%;
   color: #fff;
 }
 
@@ -320,20 +324,20 @@ nav h2 {
 }
 
 .list-item-mobile {
-  width: 90px;
-  height: 55px;
+  width: 100px;
+  height: 40px;
 }
 
 /* About Us */
 .about-us {
   width: 100%;
-  margin-bottom: 10%;
+  margin-bottom: 2%;
   margin-top: 5%;
 }
 
 .about-us-content {
-  margin: 1% 5%;
-  padding: 3%;
+  margin: 1% 8%;
+  padding: 7%;
 }
 
 .official-logo {
@@ -341,7 +345,7 @@ nav h2 {
   margin-top: 0;
   margin-left: auto;
   margin-right: auto;
-  width: 400px;
+  width: 300px;
   border: 1px solid #d3d3d3;
 }
 
@@ -355,17 +359,19 @@ nav h2 {
 }
 
 .events {
-  width: 100%;
+  width: 75%;
   display: flex;
-  flex-direction: column;
+  flex-direction: column-reverse;
   justify-content: center;
   align-items: center;
+  padding-top: 5px;
 }
 
 .previous-content {
   width: 80%;
   margin-top: 5%;
-  font-size: 1.1rem;
+  margin-bottom: 5%;
+  font-size: 1rem;
 }
 
 .previous-first-event {
