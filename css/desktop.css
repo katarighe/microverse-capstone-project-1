@@ -251,6 +251,7 @@ nav {
 
 /* Partners */
 .partners-desktop {
+  display: flex;
   width: 100%;
   opacity: 0.9;
   margin: 0;
@@ -259,6 +260,7 @@ nav {
 
 .partners-desktop-heading {
   margin-top: 1%;
+  text-align: center;
 }
 
 .partners-desktop-list ul {
@@ -287,12 +289,6 @@ nav {
   width: 100%;
   margin: 1% 1%;
   cursor: pointer;
-}
-
-@media screen and (min-width: 375px) {
-  .partners-mobile {
-    display: none;
-  }
 }
 
 /* About Us */

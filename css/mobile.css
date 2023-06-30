@@ -307,10 +307,6 @@ nav h2 {
   flex-direction: row;
 }
 
-/* .partners-desktop {
-  display: none;
-} */
-
 .list-item-mobile-container {
   margin: 10% 5%;
 }
@@ -437,4 +433,8 @@ nav h2 {
 
 .host-mobile img {
   width: 100px;
+}
+
+.partners-desktop {
+  display: none;
 }
