@@ -1,7 +1,7 @@
 const speakers = [
   {
     id: 1,
-    image: './images/speakers/speaker1.png',
+    image: './images/speakers/mohamed-aden-ighe.png',
     name: 'Mohamed Aden Ighe',
     organization: 'Founder & CEO of laxACT Ltd.',
     background:
@@ -9,7 +9,7 @@ const speakers = [
   },
   {
     id: 2,
-    image: './images/speakers/speaker2.png',
+    image: './images/speakers/john-almeda-jefferson-jr.png',
     name: 'John Almeda Jefferson Jr.',
     organization: 'Chief Executive Officer (CEO) of Buzz TV Ltd.',
     background:
@@ -17,7 +17,7 @@ const speakers = [
   },
   {
     id: 3,
-    image: './images/speakers/speaker3.png',
+    image: './images/speakers/diego-garcia-gonzalez.png',
     name: 'Diego Garcia Gonzalez',
     organization: 'Founder & CEO of Formuler Inc.',
     background:
@@ -25,7 +25,7 @@ const speakers = [
   },
   {
     id: 4,
-    image: './images/speakers/speaker4.png',
+    image: './images/speakers/robert-j-anderson.png',
     name: 'Robert J. Anderson',
     organization: 'Chief Financial Officer (CFO) of Apollo Group TV Ltd.',
     background:
@@ -33,7 +33,7 @@ const speakers = [
   },
   {
     id: 5,
-    image: './images/speakers/speaker5.png',
+    image: './images/speakers/reza-shah-ahmadi.png',
     name: 'Reza Shah Ahmadi',
     organization: 'Founder & CEO of Jadoo TV Inc.',
     background:
@@ -41,7 +41,7 @@ const speakers = [
   },
   {
     id: 6,
-    image: './images/speakers/speaker6.png',
+    image: './images/speakers/arvinder-singh.png',
     name: 'Arvinder Singh',
     organization: 'Marketing Director of IPTV Smarters Ltd.',
     background:
