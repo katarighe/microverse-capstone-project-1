@@ -73,7 +73,9 @@ function loadSpeakers() {
     speakerName.textContent = `${speaker.name}`;
     speakerInfos.appendChild(speakerName);
 
-    const line = document.createElement('div');
+    // var hr = document.createElement('hr');
+    // speakerName.className = 'mini-speaker-line';
+    // speakerInfos.appendChild(hr);
 
     const speakerOrganization = document.createElement('h4');
     speakerOrganization.className = 'dark-orange';

@@ -166,3 +166,9 @@ input[type="reset"] {
   display: flex;
   flex-direction: column;
 }
+
+.mini-speaker-line {
+  width: 1%;
+  margin-left: 1px;
+  margin-right: auto;
+}
