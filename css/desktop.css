@@ -269,18 +269,24 @@ nav {
 }
 
 .partners-desktop-list {
-  display: flex;
+  display: grid;
   flex-direction: row;
-  width: 100%;
+  width: 40%;
   margin: 10px;
   padding: 45px;
-  padding-bottom: 50px;
-  padding-top: 50px;
+  padding-bottom: 15px;
+  padding-top: 5px;
+  grid-template-columns: repeat(3, 3fr);
+  gap: 50px;
 }
 
 .list-item-desktop {
   width: 190px;
   height: 60px;
+}
+
+.list-item-desktop:hover {
+  opacity: 0.8;
 }
 
 .list-item-desktop-container {
