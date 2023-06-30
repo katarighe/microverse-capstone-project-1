@@ -271,11 +271,14 @@ nav {
   flex-direction: row;
   width: 100%;
   margin: 10px;
+  padding: 45px;
+  padding-bottom: 50px;
+  padding-top: 50px;
 }
 
 .list-item-desktop {
-  width: 150px;
-  height: 150px;
+  width: 190px;
+  height: 60px;
 }
 
 .list-item-desktop-container {

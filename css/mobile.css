@@ -283,6 +283,13 @@ nav h2 {
   background: #272a31;
 }
 
+.partners-mobile-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 50px;
+  padding-bottom: 30px;
+}
+
 .partners-mobile-heading {
   margin-top: 10%;
   color: #fff;
@@ -306,8 +313,8 @@ nav h2 {
 }
 
 .list-item-mobile {
-  width: 70px;
-  height: 70px;
+  width: 90px;
+  height: 55px;
 }
 
 /* About Us */
