@@ -1,0 +1,462 @@
+html {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  width: 100%;
+}
+
+/* Upside Menu */
+.upside {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: #272a31;
+  width: 100%;
+  height: 30px;
+  opacity: 0.9;
+}
+
+.upside-ul {
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 15%;
+}
+
+.upside-item:hover {
+  opacity: 0.7;
+}
+
+/* Navigation Menu */
+nav {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: relative;
+}
+
+.hamburger-menu-display {
+  display: none;
+}
+
+.desktop-navbar {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  color: #272a31;
+  padding: 1px 14%;
+  border-bottom: 1px solid black;
+  background-color: white;
+}
+
+.navbar-ul {
+  width: 70%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.desktop-nav-link {
+  color: #272a31;
+  font-weight: 600;
+}
+
+.desktop-navbar ul li {
+  margin: 0 1%;
+  white-space: nowrap;
+}
+
+.desktop-navbar ul li:hover {
+  opacity: 0.7;
+}
+
+.desktop-navbar ul li .CC-campaign {
+  color: #272a31;
+  border: solid 3px #ec5242;
+  padding: 7px;
+  white-space: nowrap;
+  text-transform: capitalize;
+  font-weight: bold;
+}
+
+.main-logo:hover {
+  opacity: 0.7;
+}
+
+.main-logo-img {
+  height: 80px;
+  width: auto;
+}
+
+/* First Page */
+.main-content-headers {
+  width: 80%;
+  font-size: 6.5rem;
+}
+
+.main-content-headers h2 {
+  font-size: 3.5rem;
+}
+
+.year {
+  font-size: 6.5rem;
+  margin-bottom: 5%;
+}
+
+.container h1 {
+  font-family: "cocogoose", sans-serif;
+  font-size: 5rem;
+  letter-spacing: 1.5px;
+}
+
+.main-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-content {
+  width: 80%;
+  font-size: 1.25rem;
+}
+
+.infos {
+  margin-top: 5%;
+  margin-bottom: 0;
+  width: 80%;
+}
+
+.infos h3 {
+  font-family: "cocogoose", sans-serif;
+  font-size: 3rem;
+  letter-spacing: 1.5px;
+}
+
+.date h3 {
+  font-family: "cocogoose", sans-serif;
+  font-size: 3rem;
+  letter-spacing: 1.5px;
+  position: fixed;
+}
+
+.bg-header-image {
+  width: 80%;
+}
+
+.location {
+  font-size: 1.25rem;
+}
+
+/* Main Program */
+.main-program {
+  background: url(https://jicamargo.github.io/mmw/images/background-x.png);
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 1%;
+}
+
+.program-items {
+  opacity: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.program-item {
+  position: relative;
+  opacity: 0.8;
+  width: 19%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 10px;
+  margin: 0;
+  flex-wrap: wrap;
+  background-color: rgba(211, 211, 211, 0.1882352941);
+}
+
+.program-item:hover {
+  opacity: 0.7;
+  cursor: pointer;
+}
+
+.item-icon {
+  width: auto;
+  margin: 20px 0;
+  color: #fff;
+}
+
+.item-header {
+  width: auto;
+}
+
+.item-content {
+  width: auto;
+  margin: 20px 0;
+  color: #fff;
+}
+
+.main-btn {
+  display: none;
+}
+
+.see-program {
+  display: block;
+  color: #eee;
+  font-size: 1.5rem;
+  margin-top: 5%;
+}
+
+.see-program:hover {
+  opacity: 0.7;
+  cursor: pointer;
+}
+
+/* (This Years) Conference Speakers */
+.speakers-btn {
+  display: none;
+}
+
+.speakers-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.featured-speakers-header {
+  margin: 0.1%;
+  margin-top: 0.3%;
+  margin-bottom: 0.1%;
+}
+
+.speakers-display {
+  display: flex;
+}
+
+/* Partners */
+.partners-desktop {
+  display: flex;
+  width: 100%;
+  opacity: 0.9;
+  margin: 10px;
+  background: #272a31;
+}
+
+.partners-desktop-heading {
+  margin-top: 1%;
+  text-align: center;
+}
+
+.partners-desktop-list ul {
+  display: flex;
+  flex-direction: row;
+}
+
+.partners-desktop-list {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  margin: 2px;
+  padding: 5px 120px 20px;
+  gap: 5px;
+}
+
+.list-item-desktop {
+  width: 120px;
+  height: 50px;
+}
+
+.list-item-desktop:hover {
+  opacity: 0.8;
+}
+
+.list-item-desktop-container {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin: 1% 1%;
+  cursor: pointer;
+}
+
+/* About Us */
+.horizontal-line {
+  width: 40px;
+  margin-bottom: 1%;
+  margin-top: 0.3%;
+}
+
+.about-us {
+  margin-bottom: 1px;
+  margin-top: 5%;
+  margin-top: 0;
+}
+
+.margin-top-big {
+  margin-top: 5%;
+}
+
+.official-logo {
+  margin-bottom: 0;
+  margin-top: 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+  border: 1px solid #d3d3d3;
+}
+
+.about-us-content {
+  font-size: 1.25rem;
+  text-align: center;
+  margin: 1% 5%;
+  padding: 2%;
+}
+
+.about-us-paragraph {
+  text-align: center;
+  font-size: 1.25rem;
+}
+
+/* (Gallery of) Previous Events */
+.previous-events {
+  width: 100%;
+  margin: 0.1%;
+}
+
+.events {
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 3px;
+}
+
+.previous-content {
+  width: 60%;
+  margin-top: 1%;
+  margin-bottom: -3%;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  font-size: 1.25rem;
+}
+
+.previous-first-event {
+  width: 40%;
+  min-height: 300px;
+  background: url("https://www.shoaibahmedshaikh.com/wp-content/uploads/2021/11/team-meet-3.jpg");
+  background-size: cover;
+  position: relative;
+  opacity: 1;
+  margin: 5% 0;
+}
+
+.previous-second-event {
+  width: 40%;
+  min-height: 300px;
+  background: url("https://livestream.com/blog/wp-content/uploads/2021/03/live-stream-a-conference-guide_blog-header-scaled.jpg");
+  background-size: cover;
+  position: relative;
+  opacity: 1;
+  margin: 5% 0;
+}
+
+.first-event-content {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0.8;
+  color: #fff;
+  cursor: pointer;
+}
+
+/* Footer */
+.home-footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 3% 20%;
+  gap: 125px;
+  width: 100%;
+}
+
+.about-footer-desktop {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 3% 20%;
+  gap: 125px;
+  background-color: #272a31;
+}
+
+.about-footer-mobile {
+  display: none;
+}
+
+.host {
+  width: 30%;
+}
+
+.host-desktop {
+  width: 30%;
+}
+
+.host img {
+  width: 70%;
+}
+
+.host-desktop img {
+  width: 70%;
+}
+
+.host-title {
+  margin: 1px;
+}
+
+.host-title span {
+  font-size: 1.25rem;
+  font-weight: 500;
+  font-family: 'lato', sans-serif;
+}
+
+.host-about-title {
+  margin: 1px;
+}
+
+.host-about-title span {
+  font-size: 1.25rem;
+  font-weight: 500;
+  font-family: 'lato', sans-serif;
+  color: #fff;
+}
+
+/* Horizontal Line Position */
+.full-horizontal-line {
+  border-width: 0;
+  height: 1px;
+  background-color: #272a31;
+  width: 100%;
+  opacity: 0.6;
+  margin: 0.5% 1%;
+}
+
+.partners-mobile {
+  display: none;
+}

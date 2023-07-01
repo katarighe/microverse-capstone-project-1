@@ -1,0 +1,446 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Lato", sans-serif;
+  background-color: #ffff;
+}
+
+body {
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+header {
+  width: 100%;
+}
+
+/* Upside Menu */
+.upside {
+  display: none;
+}
+
+/* Navigation Menu */
+nav {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: flex-start;
+  position: relative;
+  border-bottom: 1px solid black;
+}
+
+.nav-background {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.8;
+  border-left: 1px solid #fff;
+}
+
+nav h2 {
+  font-family: "Cocogoose Pro Light-trial", sans-serif;
+  justify-self: center;
+  align-self: center;
+  letter-spacing: 1.5px;
+  margin-top: 5%;
+  margin-bottom: 2%;
+}
+
+.hamburger-menu {
+  font-size: 30px;
+  font-weight: 900;
+  cursor: pointer;
+  padding: 10px;
+  margin: 10px;
+}
+
+.overlay {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  opacity: 0.98;
+  overflow-x: hidden;
+  transition: 0.5s;
+}
+
+.overlay-content {
+  position: relative;
+  top: 25%;
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.overlay a {
+  padding: 8px;
+  text-decoration: none;
+  font-size: 36px;
+  color: #fff;
+  display: block;
+  transition: 0.3s;
+}
+
+.overlay a:hover,
+.overlay a:focus {
+  color: #f1f1f1;
+}
+
+.overlay .closebtn {
+  position: absolute;
+  top: 1.5rem;
+  right: 3rem;
+  font-size: 4rem;
+}
+
+.desktop-navbar {
+  display: none;
+}
+
+/* First Page */
+.container {
+  width: 100%;
+  margin: 0;
+}
+
+.main-content-headers h1 {
+  width: 100%;
+}
+
+.main-content-headers h2 {
+  width: 100%;
+  margin: 3% 0;
+}
+
+.container h1 {
+  font-family: "cocogoose", sans-serif;
+  font-size: 1.85rem;
+  letter-spacing: 1.5px;
+}
+
+.infos h3 {
+  font-family: "cocogoose", sans-serif;
+  font-size: 1.5rem;
+  letter-spacing: 1.5px;
+}
+
+.date h3 {
+  font-family: "cocogoose", sans-serif;
+  font-size: 2rem;
+  letter-spacing: 1.5px;
+  position: fixed;
+}
+
+.header-content {
+  border: 1px solid #d3d3d3;
+  padding: 3%;
+  line-height: 1.5rem;
+  backdrop-filter: saturate(100%);
+  opacity: 0.9;
+  box-shadow: 0 0 25px 0 inset #d3d3d3;
+  -webkit-box-shadow: 0 0 20px 0 inset #d3d3d3;
+  width: 100%;
+  font-size: 1.25rem;
+}
+
+.main-content .text-center h1 {
+  margin-top: 5%;
+}
+
+.main-content-headers {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.background-header-image {
+  position: absolute;
+  width: 100%;
+  z-index: -1;
+  bottom: 0;
+  left: 0;
+  background-size: cover;
+}
+
+.background-header-image-rotate {
+  transform: rotate(180deg);
+  top: 0;
+  right: 0;
+  position: absolute;
+  width: 100%;
+  z-index: -2;
+  background-size: cover;
+}
+
+.infos {
+  margin: 10% 0;
+}
+
+/* Main Program */
+.main-program {
+  background: url("https://jicamargo.github.io/mmw/images/background-x.png");
+  width: 100%;
+  height: 100%;
+  padding: 3%;
+  border-radius: 5px;
+  margin: 1%;
+}
+
+.main-program h2 {
+  text-decoration-color: white;
+}
+
+.program-item {
+  padding: 3%;
+  margin: 2% 0;
+  opacity: 0.7;
+  border-radius: 5px;
+  background-color: rgba(211, 211, 211, 0.1882352941);
+}
+
+.item-icon {
+  width: 12%;
+  color: #fff;
+}
+
+.item-header {
+  width: 28%;
+}
+
+.item-content {
+  width: 50%;
+  color: #fff;
+}
+
+.main-btn {
+  margin: 5% 0;
+  cursor: pointer;
+}
+
+.see-program {
+  display: none;
+}
+
+/* (This Years) Conference Speakers */
+.featured-speakers-header {
+  margin: 1%;
+}
+
+.speaker-heading {
+  margin-bottom: 2%;
+}
+
+.speaker-image {
+  width: 150px;
+  margin: 3%;
+}
+
+.speakers-list {
+  opacity: 0.8;
+}
+
+.speaker-infos {
+  width: 67%;
+  margin: 3%;
+  margin-left: 0;
+}
+
+.speakers-btn {
+  width: 80%;
+  border: #272a31 solid 1px;
+  background-color: #fff;
+  color: #272a31;
+  margin: 5% 0;
+}
+
+.down-arrow {
+  color: #ec5242;
+  margin: 0 5px;
+}
+
+.speakers-display {
+  display: none;
+}
+
+/* Partners */
+.partners-mobile {
+  width: 100%;
+  opacity: 0.9;
+  margin: 0;
+  background: #272a31;
+  padding: 30px;
+}
+
+.partners-mobile-list {
+  display: grid;
+  align-items: center;
+  grid-template-columns: repeat(3, 3fr);
+  gap: 5px;
+  padding-bottom: 15px;
+  grid-gap: 10px;
+  row-gap: 1px;
+}
+
+.partners-mobile-heading {
+  margin-top: 5%;
+  color: #fff;
+}
+
+.partners-mobile-list ul {
+  display: flex;
+  flex-direction: row;
+}
+
+.list-item-mobile-container {
+  margin: 10% 5%;
+}
+
+.list-item-mobile-container:hover {
+  opacity: 0.7;
+}
+
+.list-item-mobile-container::marker {
+  color: #272a31;
+}
+
+.list-item-mobile {
+  width: 100px;
+  height: 40px;
+}
+
+/* About Us */
+.about-us {
+  width: 100%;
+  margin-bottom: 2%;
+  margin-top: 5%;
+}
+
+.about-us-content {
+  margin: 1% 8%;
+  padding: 7%;
+}
+
+.official-logo {
+  margin-bottom: 0;
+  margin-top: 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  border: 1px solid #d3d3d3;
+}
+
+/* (Gallery of) Previous Events */
+.previous-events {
+  margin: 5% 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.events {
+  width: 75%;
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  align-items: center;
+  padding-top: 5px;
+}
+
+.previous-content {
+  width: 80%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  font-size: 1rem;
+}
+
+.previous-first-event {
+  width: 100%;
+  min-height: 200px;
+  background: url("https://www.shoaibahmedshaikh.com/wp-content/uploads/2021/11/team-meet-3.jpg");
+  background-size: cover;
+  position: relative;
+  opacity: 1;
+  margin: 5% 0;
+}
+
+.previous-second-event {
+  width: 100%;
+  min-height: 200px;
+  background: url("https://livestream.com/blog/wp-content/uploads/2021/03/live-stream-a-conference-guide_blog-header-scaled.jpg");
+  background-size: cover;
+  position: relative;
+  opacity: 1;
+  margin: 5% 0;
+}
+
+.first-event-content {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0.8;
+  color: #fff;
+  background-color: #ec5242;
+}
+
+.act:hover {
+  opacity: 0.7;
+}
+
+/* Footer */
+.home-footer-desktop {
+  display: flex;
+  align-items: center;
+  padding: 0.5% 20%;
+  gap: 250px;
+}
+
+.home-footer {
+  display: none;
+}
+
+.about-footer-desktop {
+  display: none;
+}
+
+.about-footer-mobile {
+  display: flex;
+  align-items: center;
+  padding: 3% 10%;
+  gap: 35px;
+  opacity: 0.9;
+}
+
+.host-mobile {
+  width: 60%;
+}
+
+.host-mobile img {
+  width: 100px;
+}
+
+.partners-desktop {
+  display: none;
+}
